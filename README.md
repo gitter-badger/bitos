@@ -50,7 +50,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [M
 # Clone this repository
 $ git clone https://github.com/mujalab/bitos
 # Go into the repository
-$ cd BitOS
+$ cd bitos
 # Install 
 $ make
 # Run the app
