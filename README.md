@@ -40,6 +40,8 @@
 <!---------------------------------------------- KEY FEATURES ------------------------------------------>
 ## Key Features
 
+[![Join the chat at https://gitter.im/mujalab/BitOS](https://badges.gitter.im/mujalab/BitOS.svg)](https://gitter.im/mujalab/BitOS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Work In Progress (WIP)
 <!---------------------------------------------- HOW TO USE -------------------------------------------->
 ## How To Use
